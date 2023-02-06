@@ -39,7 +39,7 @@ fetch('https://graphql-pokeapi.graphcdn.app/', {
       
     return (
         <div>
-            <h2>this is pavel</h2>
+            <h2>this is Footer</h2>
         </div>
     );
 };
