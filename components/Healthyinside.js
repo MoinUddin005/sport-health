@@ -1,9 +1,9 @@
 const Healthyinside = () => {
     return (
       <div className="container mx-auto mt-10">
-        <div className="flex gap-4">
+        <div className="flex flex-col gap-4 md:flex-row md:items-center mx-5">
           <div className="basis-1/2">
-            <h2 className="font-bold font-mono lg:text-[46px] lg:leading-[73px] mb-9 mb-0 text-[28px] leading-[39px]">
+            <h2 className="font-bold  font-mono lg:text-[46px] lg:leading-[73px] mb-9 mb-0 text-[28px] leading-[39px]">
               Healthy in side <br /> fresh out side
             </h2>
           </div>
