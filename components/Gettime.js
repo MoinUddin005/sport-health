@@ -2,7 +2,7 @@ const Gettime = () => {
     return (
       <div className="container mx-auto my-20">
         <div
-          className="flex flex-col lg:flex-row justify-evenly items-center lg:flex-row gap-4 rounded-[30px] py-8 lg:py-[87px] mx-5 lg:mx-0"
+          className="flex flex-col gap-4 justify-center lg:flex-row lg:mx-0 lg:py-[87px] mx-5 px-5 py-8 md-py-0 rounded-[30px]"
           style={{ background: "linear-gradient(87.05deg, #6462F0 0%, #9190E9 95.5%)" }}
         >
           <div className="flex gap-[30px]">
